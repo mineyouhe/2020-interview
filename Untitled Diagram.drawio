@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T13:02:09.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.8.2" etag="zGY05q8yge-1cP9csbqJ" type="github"><diagram id="OtC8pC3IlLzPTOJzzOBS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-24T03:28:06.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="2QJ38vtMYgCPkywi3MBt" version="15.8.2" type="github">
+  <diagram id="OtC8pC3IlLzPTOJzzOBS" name="Page-1">
+    <mxGraphModel dx="1426" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="270" width="490" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry width="490" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-6" value="工具管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="50" y="113.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-7" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="50" y="193.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-8" value="标签管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="190" y="33.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-9" value="数据查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="190" y="113.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-10" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="190" y="193.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-11" value="操作日志记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="330" y="33.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-14" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="330" y="113.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-1" value="&lt;span&gt;资源池管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="50" y="33.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKTP8gU1bmiVKxjd7aDb-20" value="场景/工具执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xKTP8gU1bmiVKxjd7aDb-18">
+          <mxGeometry x="330" y="193.5" width="110.00000000000001" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
